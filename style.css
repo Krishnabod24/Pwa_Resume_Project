@@ -43,6 +43,7 @@ th, td {
 }
 a{
   word-break: break-word;
+  font-size: 20px;
 }
 h2{
   text-shadow:1px 4px 4px black;
